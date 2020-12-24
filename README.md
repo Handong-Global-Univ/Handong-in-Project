@@ -42,9 +42,9 @@
   <img src="./static/his-study.png" />
 </p>
 
-- __His study__
+- __Histudy__
     - 설명: 한동대 전산전자 학생들의 스터디 그룹 관리 웹입니다.
-    - 공개: 20. 02(?)
+    - 공개: 20. 03
     - 개발자: [@dodoyoon](https://github.com/dodoyoon), [@Sung-Min-Kim](https://github.com/Sung-Min-Kim)
     - Github: [Link](https://github.com/dodoyoon/Histudy)
     - Site Link: [Link](https://histudy.cafe24.com/login/)
