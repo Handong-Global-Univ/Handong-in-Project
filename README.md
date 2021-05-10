@@ -10,6 +10,22 @@
 
 <br />
 
+
+
+------------
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/46002818/117675911-fe7b7e80-b1e7-11eb-9952-17101e24bcff.png" width="300" />
+  <img src="https://user-images.githubusercontent.com/46002818/117675924-020f0580-b1e8-11eb-8166-1ca5101cfe93.png" width="300"/>
+</p>
+
+- __딩동 말씀__
+    - 설명: 매일 업데이트 되는 말씀 카드로 하루를 시작해보세요 :)
+    - 공개: 21. 04. 26.
+    - 개발자: [@theSongOfSongs](https://github.com/theSongOfSongs)
+    - Github: [Link](https://github.com/theSongOfSongs)
+    - Site Link: [https://apps.apple.com/kr/app/%EB%94%A9%EB%8F%99-%EB%A7%90%EC%94%80/id1564280471](https://apps.apple.com/kr/app/%EB%94%A9%EB%8F%99-%EB%A7%90%EC%94%80/id1564280471)
+
 ------------
 
 <p align="center">
